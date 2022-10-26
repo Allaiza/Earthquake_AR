@@ -10,5 +10,6 @@ public class MovementDetection : MonoBehaviour
         Vector3 dir = Input.acceleration;
 
         Debug.Log(dir.ToString());
+
     }
 }
